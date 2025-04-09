@@ -1,0 +1,7 @@
+E:\2JOD\C#\jokenpow\jokenpow\obj\Debug\jokenpow.csprojAssemblyReference.cache
+E:\2JOD\C#\jokenpow\jokenpow\obj\Debug\jokenpow.csproj.CoreCompileInputs.cache
+E:\2JOD\C#\jokenpow\jokenpow\bin\Debug\jokenpow.exe.config
+E:\2JOD\C#\jokenpow\jokenpow\bin\Debug\jokenpow.exe
+E:\2JOD\C#\jokenpow\jokenpow\bin\Debug\jokenpow.pdb
+E:\2JOD\C#\jokenpow\jokenpow\obj\Debug\jokenpow.exe
+E:\2JOD\C#\jokenpow\jokenpow\obj\Debug\jokenpow.pdb
