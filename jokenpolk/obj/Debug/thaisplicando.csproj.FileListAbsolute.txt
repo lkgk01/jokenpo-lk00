@@ -1,7 +1,0 @@
-C:\Users\Aluno\source\repos\thaisplicando\thaisplicando\bin\Debug\thaisplicando.exe.config
-C:\Users\Aluno\source\repos\thaisplicando\thaisplicando\bin\Debug\thaisplicando.exe
-C:\Users\Aluno\source\repos\thaisplicando\thaisplicando\bin\Debug\thaisplicando.pdb
-C:\Users\Aluno\source\repos\thaisplicando\thaisplicando\obj\Debug\thaisplicando.csprojAssemblyReference.cache
-C:\Users\Aluno\source\repos\thaisplicando\thaisplicando\obj\Debug\thaisplicando.csproj.CoreCompileInputs.cache
-C:\Users\Aluno\source\repos\thaisplicando\thaisplicando\obj\Debug\thaisplicando.exe
-C:\Users\Aluno\source\repos\thaisplicando\thaisplicando\obj\Debug\thaisplicando.pdb

@@ -1,7 +1,0 @@
-E:\jokenpo LK00\jokenpolk\bin\Debug\thaisplicando.exe.config
-E:\jokenpo LK00\jokenpolk\bin\Debug\thaisplicando.exe
-E:\jokenpo LK00\jokenpolk\bin\Debug\thaisplicando.pdb
-E:\jokenpo LK00\jokenpolk\obj\Debug\jpkenpolk.csprojAssemblyReference.cache
-E:\jokenpo LK00\jokenpolk\obj\Debug\jpkenpolk.csproj.CoreCompileInputs.cache
-E:\jokenpo LK00\jokenpolk\obj\Debug\thaisplicando.exe
-E:\jokenpo LK00\jokenpolk\obj\Debug\thaisplicando.pdb
